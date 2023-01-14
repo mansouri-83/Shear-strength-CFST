@@ -1,2 +1,2 @@
 # Shear-strength-CFST
-Developing an interpretable machine learning model for estimating the shear strength of concrete-filled steel tubes.
+The performance of nine machine learning methods, namely linear regression, decision tree (DT), k-nearest neighbors (KNN), support vector regression (SVR), random forest (RF), bagging regression (BR), adaptive boosting (AdaBoost), gradient boosting regression tree (GBRT), and extreme gradient boosting (XGBoost) in estimating the shear strength of CFSTs is evaluated on an experimental database compiled from the results of 230 shear tests on CFSTs in the literature. 
